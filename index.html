@@ -327,6 +327,13 @@
       <span>copyright &#169; 2025 Hema Durga. All Rights Reserved</span>
       <a class="arrow arrow2" href="#navbar"> <img src="arrow.png" alt="" /></a>
     </section>
+    <script>
+      const hamburger = document.querySelector(".hamburger");
+      const menu_bar = document.querySelector(".navbar-menu .menubar");
+      hamburger.addEventListener("click", () => {
+        menu_bar.classList.toggle("show");
+      });
+    </script>
   </body>
 </html>
 
