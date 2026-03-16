@@ -28,11 +28,11 @@ This portfolio helps me present my work and learning journey in web development.
 
 ## 🔗 Live Demo
 
-(Add your GitHub Pages link here)
+https://hemach838-byte.github.io/pro-3/
 
 ## 💻 GitHub Repository
 
-(Add your repository link here)
+https://github.com/hemach838-byte/pro-3/
 
 ## 📌 Author
 
